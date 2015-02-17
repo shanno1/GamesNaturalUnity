@@ -1,6 +1,6 @@
 
-Name: Mark Shanahan
-SID: D11124846
+####Name: Mark Shanahan
+####SID: D11124846
 
 
 
@@ -17,8 +17,8 @@ and others that are not so friendly that will try and attack you.
 
 
 #Scenes:
-Path following scene<return>
-Attack Scene<return>
+Path following scene
+Attack Scene
 Flocking Fish AI scene
 
 #Cameras:
