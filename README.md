@@ -1,8 +1,8 @@
 
-#Name: Mark Shanahan
-#SID: D11124846
+Name: Mark Shanahan
+SID: D11124846
 
-#Genre: Natural
+
 
 #Outlined Story:
 --------------------------------------
