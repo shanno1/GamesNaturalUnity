@@ -17,11 +17,11 @@ and others that are not so friendly that will try and attack you.
 
 
 #Scenes:
-Path following scene
-Attack Scene
-Flocking Fish AI scene
+* Path following scene
+* Attack Scene
+* Flocking Fish AI scene
 
 #Cameras:
-1 on the body of Jeff for first person pov
-1 from the outside looking in moving position relative to Jeff
-Scenery camera for different environmental aspects the ocean, ocean floor, random fish etc.
+* 1 on the body of Jeff for first person pov
+* 1 from the outside looking in moving position relative to Jeff
+* Scenery camera for different environmental aspects the ocean, ocean floor, random fish etc.
