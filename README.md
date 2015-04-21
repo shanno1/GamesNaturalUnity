@@ -15,13 +15,22 @@ how its important to only go do the things that are generally safe and to be sca
 The scene is underwater and as you move around you come across flocking fish, friendly ones that help with the story
 and others that are not so friendly that will try and attack you.
 
+#Characters:
+* Jeff(Father)
+* Ralph (Son)
+* Fergal(Human who is going to capture Ralph)
+* Random Fish or sea creatures
+* Attack Sharks(Going to implement shark attack sound effects that react when your within shark proximity)
 
 #Scenes:
-* Path following scene
+* Path following scene(Main Character)
 * Attack Scene
 * Flocking Fish AI scene
+* Path following fish through scenes
+* Ocean top surface scene
 
 #Cameras:
 * 1 on the body of Jeff for first person pov
 * 1 from the outside looking in moving position relative to Jeff
 * Scenery camera for different environmental aspects the ocean, ocean floor, random fish etc.
+* A combination of camera's will be used for cinematic effects
