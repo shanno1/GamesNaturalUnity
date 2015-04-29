@@ -23,11 +23,13 @@ and others that are not so friendly that will try and attack you.
 * Attack Sharks(Going to implement shark attack sound effects that react when your within shark proximity)
 
 #Scenes:
-* Path following scene(Main Character)
-* Attack Scene
-* Flocking Fish AI scene
-* Path following fish through scenes
-* Ocean top surface scene
+* Title Scene
+* Opening Scene Ralph and Jeff go to school
+* Ralph swims away
+* Jeff Chases Ralph
+* Shark Attack/ Final scene where Jeff finds Ralph at boat
+* Game Over(if Shark eats Jeff)
+* The End(If Jeff Finds Ralph)
 
 #Cameras:
 * 1 on the body of Jeff for first person pov
